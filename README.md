@@ -111,7 +111,7 @@ Sources: [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-
 
 ### 9 - Configure Apache to serve a Python mod_wsgi application
 
-1. Clone the item-catalog (NCAA-Teams) app from Github
+1. Clone the item-catalog (NHL Teams) app from Github
    ```
    $ cd /var/www
    $ sudo mkdir catalog
